@@ -103,5 +103,6 @@ alias rr=ranger
 alias ll='ls -al'
 alias v=nvim
 alias vim=nvim
+alias nf=neofetch
 export EDITOR=nvim
 export VISUAL=nvim
